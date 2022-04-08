@@ -1,0 +1,22 @@
+{
+  "name": "back_ruleta_preguntade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenborn/ruleta_preguntade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenborn/ruleta_preguntade/issues"
+  },
+  "homepage": "https://github.com/Greenborn/ruleta_preguntade#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
