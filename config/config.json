@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "preguntades_usr",
+    "password": "preguntades_pass",
+    "database": "preguntades",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "preguntades_usr",
+    "password": "preguntades_pass",
+    "database": "preguntades",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "preguntades_usr",
+    "password": "preguntades_pass",
+    "database": "preguntades",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
